@@ -1,0 +1,22 @@
+# Exclude generated outputs
+*.o
+*.out
+*.class
+*.exe
+*.bin
+
+# Exclude confidential files
+*.env
+*.key
+*.pem
+
+# Exclude model checkpoints
+*.ckpt
+*.h5
+*.pth
+
+# Exclude temporary files
+*.tmp
+*.log
+*.swp
+*.bak
